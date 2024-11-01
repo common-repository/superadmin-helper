@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superadmin Helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-20 12:38+0100\n"
+"PO-Revision-Date: 2014-04-09 13:05+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: superadmin-helper.php:50 superadmin-helper.php:61
+msgid "Superadmin helper settings"
+msgstr "Superadmin helper postavke"
+
+#: superadmin-helper.php:51 superadmin-helper.php:62
+msgid "Superadmin helper"
+msgstr "Superadmin helper"
+
+#: superadmin-helper.php:77
+msgid "Options saved"
+msgstr "Opcije sačuvane"
+
+#: superadmin-helper.php:81
+msgid "Basic information about events in multisite network."
+msgstr "Osnovne informacije o dogadjajima u multisajt mreži."
+
+#: superadmin-helper.php:82
+msgid "List of e-mails sent by WordPress"
+msgstr "Lista emailova poslatih od strane WordPress-a"
+
+#: superadmin-helper.php:85
+msgid "Superadmin Helper was successfully registered with WLS."
+msgstr "Superadmin Helper je uspešno registrovan sa WLS."
+
+#: superadmin-helper.php:89
+msgid "Error while trying to register Superadmin Helper with WLS."
+msgstr "Greška prilikom pokušaja registrovanja Superadmin Helper-a sa WLS."
+
+#: superadmin-helper.php:100
+msgid ""
+"Superadmin Helper successfully unregistered from WLS, log entries deleted."
+msgstr "Superadmin Helper je uspešno odrgistrovan iz WLS, log unosi obrisani."
+
+#: superadmin-helper.php:104
+msgid "Error while trying to unregister Superadmin Helper from WLS"
+msgstr "Greška prilikom pokušaja odregistrovanja Superadmin Helper sa WLS"
+
+#: superadmin-helper.php:120
+msgid "Superadmin Helper options"
+msgstr "Superadmin Helper opcije"
+
+#: superadmin-helper.php:124
+msgid "Registration with WLS"
+msgstr "Registracija sa WLS"
+
+#: superadmin-helper.php:125
+msgid "Wordpress Logging Service was detected."
+msgstr "Wordpress Logging usluga je primećena.."
+
+#: superadmin-helper.php:132
+msgid "Register with WLS"
+msgstr "Registrovano sa WLS"
+
+#: superadmin-helper.php:141
+msgid "Unregister from WLS and delete log entries"
+msgstr "Odregistrovano sa WLS i obrisani log unosi"
+
+#: superadmin-helper.php:150 superadmin-helper.php:580
+#: superadmin-helper.php:587 superadmin-helper.php:630
+msgid "Permban"
+msgstr "Permban"
+
+#: superadmin-helper.php:155
+msgid "Activate IP permban when someone tries to login as \"admin\""
+msgstr "Aktivan IP permban kaa neko pokuša da se uloguje kao \"admin\""
+
+#: superadmin-helper.php:161
+msgid "Message to be shown to blocked viewers"
+msgstr "Poruka može biti prikazana blokiranim posetiocima"
+
+#: superadmin-helper.php:168
+msgid "Save"
+msgstr "Sačuvati"
+
+#: superadmin-helper.php:396
+msgid "Superadmin mode"
+msgstr "Superadmin mode"
+
+#: superadmin-helper.php:397
+msgid "Be very careful. Wrong value can do some damage."
+msgstr "Budite obazrivi. Pogrešna vrednost vam može naneti štetu."
+
+#: superadmin-helper.php:402
+msgid "Primary blog"
+msgstr "Primarni  blog"
+
+#: superadmin-helper.php:437
+msgid "Last login"
+msgstr "Poslednji login"
+
+#: superadmin-helper.php:635 superadmin-helper.php:643
+msgid "IP address"
+msgstr "IP adresa"
+
+#: superadmin-helper.php:636 superadmin-helper.php:644
+msgid "Notes"
+msgstr "Beleške"
+
+#: superadmin-helper.php:637 superadmin-helper.php:645
+msgid "Action"
+msgstr "Akcija"
+
+#: superadmin-helper.php:658
+msgid "Possible origins of attack / affected visitors"
+msgstr "Moguće poreklo napada / pogodjenih posltilaca"
